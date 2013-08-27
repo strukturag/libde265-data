@@ -1,4 +1,4 @@
 libde265-data
 =============
 
-Example video stream data for libde265
+Example video stream data for libde265.
